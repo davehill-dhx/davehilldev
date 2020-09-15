@@ -6,4 +6,3 @@ If you are keen to know more about me, here are a few more amazing facts.
 
 * I currently work at the University of York
 * I specialise in HTML, CSS and Digital Accessibility
-* I'm an Asana Together Ambassador
