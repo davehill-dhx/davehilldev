@@ -8,4 +8,4 @@ If you are keen to know more about me, here are a few more amazing facts.
 * I specialise in HTML, CSS and Digital Accessibility
 * I enjoy building LEGO sets
 * Electronics is my latest hobby
-* * I'm a stroke survivor
+* I'm a stroke survivor
