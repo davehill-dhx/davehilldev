@@ -6,6 +6,6 @@ If you are keen to know more about me, here are a few more amazing facts.
 
 * I currently work at the University of York
 * I specialise in HTML, CSS and Digital Accessibility
-* I enjoy building LEGO sets
+* I enjoy building LEGO sets (occaisionally)
 * Electronics is my latest hobby
-* I'm a stroke survivor
+
