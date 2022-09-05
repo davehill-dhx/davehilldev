@@ -1,6 +1,11 @@
-## Hey👋
+# Hi, I'm Dave 👋
 
-I'm a Front-end Developer based in the North of England. I began my career in 2001, initially as an e-learning developer.
+ I’m a frontend engineer, based in the North of England, and I’m committed to continuing professional development and I strive to pay close attention to new and emerging technologies. I’ve been working as a web Developer for over 20 years. Beginning my career, in  2001.
+My experience as a web development specialist covers gathering specifications, project planning, research, design and implementation of solutions to satisfy stakeholder requirements. My approach to work includes the use of semantic HTML for document structure to assist with usability & accessibility.
+I endeavour to pay close attention to new and emerging technologies. 
+In March 2017, became a member of the Digital Platforms and Developments Team at the University of York. This role has provided me exposure to platforms to manage project tasks, such as Asana, and I have increased my experience of using API’s.
+
+Like many other developers, I'm very interested in using the [Jamstack](https://jamstack.org/) and [MERN](https://www.educative.io/answers/what-is-mern-stack ) stack for developments. They are not only enjoyable to use, but also fun to learn.
 
 
 ## knowledge and skills
